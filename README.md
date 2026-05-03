@@ -1,15 +1,14 @@
 # Hi 👋, I'm Abhishek Basu
-### ML Engineer building production LLM systems, inference pipelines, and AI-powered products
+### Software Engineer | Backend Systems, AI/ML Infrastructure & Model Evaluation
 
 ![](https://komarev.com/ghpvc/?username=abasu9&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔧 I build **end-to-end ML pipelines** — from model training to optimized inference to production deployment at scale
-- ⚡ Reduced LLM inference latency by **>40%** using speculative decoding, TensorRT, and GPU-aware batching
-- 🚀 Shipped backend compute workflows serving **1M+ daily users** with 35% latency reduction at BYJU'S
-- 🏥 Built **multimodal medical-image retrieval** with vision-language models at Carpl.ai/RSNA, improving diagnostic relevance by ~28%
-- 🛠️ Deployed **10+ ML models to production with zero rollback** at Extech Digital, driving ~30% revenue uplift
-- 🏆 **MIT Frontiers GenAI Hackathon Finalist (Top 5)** — with Google DeepMind & Breakthrough Ventures
-- 🎓 **MS CS @ University of Illinois Chicago** — Graduating May 2026
+MS Computer Science (Thesis Track) @ University of Illinois Chicago — Graduating July 2026
+
+- Building end-to-end ML evaluation pipelines and backend systems
+- Lead author on CHQ-Summ, a benchmark dataset submitted to Nature Scientific Data
+- MIT Frontiers GenAI Hackathon Finalist (Top 5) — with Google DeepMind & Breakthrough Ventures
+- JacHacks 2026 Finalist (Top 5) — University of Michigan
 - 📫 How to reach me **abasu9@uic.edu**
 
 ## 🌐 Socials:
