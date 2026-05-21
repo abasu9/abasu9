@@ -1,5 +1,5 @@
 # Hi 👋, I'm Abhishek Basu
-### Software Engineer | Backend Systems, AI/ML Infrastructure & Model Evaluation
+### Software Engineer | Backend, Distributed Systems & AI/ML Systems
 
 ![](https://komarev.com/ghpvc/?username=abasu9&label=Profile%20views&color=0e75b6&style=flat)
 
