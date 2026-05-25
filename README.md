@@ -8,7 +8,7 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 - Building production backend services, distributed systems, and ML evaluation pipelines
 - Lead author on [CHQ-Summ](https://arxiv.org/abs/2512.23637), a benchmark dataset submitted to Nature Scientific Data
 - Massachusetts Institute of Technology Frontiers GenAI Hackathon Finalist (Top 5) - with Google DeepMind & Breakthrough Ventures
-- JacHacks 2026 Finalist (Top 5) - University of Michigan
+- JacHacks 2026 Finalist (Top 5) - University of Michigan, Ann Arbor
 - 📫 How to reach me **abasu.grad@gmail.com**
 
 ## 🌐 Socials:
