@@ -7,7 +7,7 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 
 - Building production backend services, distributed systems, and ML evaluation pipelines
 - Lead author on [CHQ-Summ](https://arxiv.org/abs/2512.23637), a benchmark dataset submitted to Nature Scientific Data
-- MIT Frontiers GenAI Hackathon Finalist (Top 5) - with Google DeepMind & Breakthrough Ventures
+- Massachusetts Institute of Technology Frontiers GenAI Hackathon Finalist (Top 5) - with Google DeepMind & Breakthrough Ventures
 - JacHacks 2026 Finalist (Top 5) - University of Michigan
 - 📫 How to reach me **abasu.grad@gmail.com**
 
@@ -30,7 +30,7 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 
 # 🚀 What I've Built:
 
-### ⚡ [Friday - Privacy-First AI Meeting Assistant](https://github.com/yawbtng/Frontiers-Hack) | *MIT Frontiers GenAI Hackathon - Top 5 Finalist*
+### ⚡ [Friday - Privacy-First AI Meeting Assistant](https://github.com/yawbtng/Frontiers-Hack) | *Massachusetts Institute of Technology Frontiers GenAI Hackathon - Top 5 Finalist*
 Desktop app with live transcription (Whisper), real-time streaming, and editable meeting workflows. All processing local by default - no cloud upload of raw audio. **Rust · Tauri · Next.js · FastAPI · SQLite**
 
 ### 🚗 [RideMatch - Distributed Ride Dispatch Simulator](https://github.com/abasu9/RideMatch)
