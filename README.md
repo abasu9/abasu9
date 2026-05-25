@@ -5,8 +5,8 @@
 
 MS Computer Science (Thesis Track) @ University of Illinois Chicago — Graduating July 2026
 
-- Building end-to-end ML evaluation pipelines and backend systems
-- Lead author on CHQ-Summ, a benchmark dataset submitted to Nature Scientific Data
+- Building production backend services, distributed systems, and ML evaluation pipelines
+- Lead author on [CHQ-Summ](https://arxiv.org/abs/2512.23637), a benchmark dataset submitted to Nature Scientific Data
 - MIT Frontiers GenAI Hackathon Finalist (Top 5) — with Google DeepMind & Breakthrough Ventures
 - JacHacks 2026 Finalist (Top 5) — University of Michigan
 - 📫 How to reach me **abasu9@uic.edu**
@@ -15,27 +15,50 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago — Graduati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-basu-2001/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5205-4457) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abasu9@uic.edu)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Languages:** Python, Java, Go, C++, SQL, JavaScript/TypeScript, Bash, Rust
+
+**Backend & Infra:** Apache Kafka, gRPC, FastAPI, Flask, Docker, Prometheus, OpenTelemetry, CI/CD, Linux
+
+**Cloud:** AWS (EC2, S3, Lambda, SageMaker), Serverless
+
+**Databases:** PostgreSQL, MongoDB, Redis, ChromaDB
+
+**ML/AI:** PyTorch, TensorFlow, Hugging Face, LoRA/QLoRA, vLLM, RAG Pipelines, LangGraph, LLM Evaluation, Prompt Engineering
+
+**Frontend:** React, Next.js, Tauri
 
 # 🚀 What I've Built:
 
-### ⚡ [Friday — AI Meeting Assistant](https://github.com/yawbtng/Frontiers-Hack) | *MIT Frontiers GenAI Hackathon — Top 5 Finalist*
-Privacy-first desktop app with live transcription (Whisper), real-time streaming, and editable exports. Cross-platform stack: **Rust · Tauri · Next.js · FastAPI · SQLite**
+### ⚡ [Friday — Privacy-First AI Meeting Assistant](https://github.com/yawbtng/Frontiers-Hack) | *MIT Frontiers GenAI Hackathon — Top 5 Finalist*
+Desktop app with live transcription (Whisper), real-time streaming, and editable meeting workflows. All processing local by default — no cloud upload of raw audio. **Rust · Tauri · Next.js · FastAPI · SQLite**
+
+### 🚗 [RideMatch — Distributed Ride Dispatch Simulator](https://github.com/abasu9/RideMatch)
+Distributed ride-dispatch system with Go microservices, gRPC for service communication, and Kafka for streaming driver-location updates. Geospatial matching via H3 hex-grid indexing and Redis. Instrumented with Prometheus, structured logging, and OpenTelemetry tracing. **Go · gRPC · Kafka · Redis · PostgreSQL · Docker**
+
+### 🏥 [Clinical QA Fine-tuning and Serving Pipeline](https://github.com/abasu9/Clinical-QA-Pipeline)
+Fine-tuned Mistral-7B with QLoRA on clinical QA data, served via vLLM behind FastAPI with quantization and continuous batching. ~50% latency reduction vs. baseline HuggingFace generation, ~12% improvement in domain-specific accuracy. **Python · PyTorch · QLoRA · vLLM · FastAPI · W&B · Docker**
 
 ### 🔍 [Ethical RAG for Medical Retrieval](https://github.com/abasu9/Ethical_RAG)
-Production RAG service with hybrid retrieval (BM25 + dense), trustworthiness scoring, and confidence-based refusal. Deployed on **AWS with caching & batching** — AUC ~0.89 on hallucination detection across 2,500+ PubMed passages.
+Hybrid retrieval (BM25 + dense embeddings) with trustworthiness scoring, self-consistency validation, and confidence-based refusal. AUC ~0.89 on hallucination detection across 2,500+ PubMed passages. Deployed on AWS with caching and batching. **Python · Hugging Face · ChromaDB · AWS**
+
+### 🤖 [Multi-Agent Research Assistant](https://github.com/abasu9/Multi-Agent-Research-Assistant)
+Multi-agent system using LangGraph with retriever, synthesizer, and fact-checker agents. Tool calling and human-in-the-loop review. ChromaDB-backed retrieval with agent-driven query routing, ~20% hallucination reduction vs. single-agent baseline. **Python · LangGraph · ChromaDB · PostgreSQL · FastAPI**
 
 ### 🧠 Speculative Decoding for LLM Inference
-Integrated draft-then-verify inference for LLaMA-3.1 and Gemma — **>40% latency reduction** in agentic planning loops while preserving accuracy on GSM8K, SVAMP, MultiArith. **PyTorch · CUDA · TensorRT**
+Draft-then-verify inference for LLaMA-3.1 and Gemma. >40% latency reduction in agentic planning loops while preserving accuracy on GSM8K, SVAMP, MultiArith. **PyTorch · CUDA · TensorRT**
 
 ### 💡 [CoT-RAG — Explainable Reasoning Search](https://github.com/abasu9/CoT-RAG-Explainable-Reasoning-Search)
-RAG system that exposes full chain-of-thought reasoning for every answer — transparent and auditable retrieval-augmented generation.
+RAG system exposing full chain-of-thought reasoning for every answer — transparent and auditable retrieval-augmented generation.
+
+### 📊 [CULL — Agentic AI for Employee Analytics](https://github.com/abasu9/CULL) | *JacHacks 2026 — Top 5 Finalist*
+4-agent DAG pipeline for automated employee evaluation and ranking. Concurrent per-record processing, rollback-safe execution, and PostgreSQL-backed audit trails. **FastAPI · Python · PostgreSQL · React · TypeScript**
+
+### 📈 [CHQ-Summ Dataset](https://github.com/abasu9/CHQ-Summ-A-Dataset-for-Consumer-Healthcare-Question-Summarization) | *Lead Author — submitted to Nature Scientific Data*
+Benchmarked 6 LLMs across 72 configurations. ROUGE-L 49% · BERTScore 92%. [arXiv](https://arxiv.org/abs/2512.23637)
 
 ### 🏀 [ClutchCast — AI Sports Commentary](https://github.com/abasu9/ClutchCast)
 Real-time sports moment detection & AI-generated play-by-play commentary engine. **TypeScript · Next.js**
-
-### 📊 [CHQ-Summ Dataset](https://github.com/abasu9/CHQ-Summ-A-Dataset-for-Consumer-Healthcare-Question-Summarization) | *Lead Author — submitted to Nature Scientific Data*
-Benchmarked 6 LLMs across 72 configurations. ROUGE-L 49% · BERTScore 92%. [arXiv](https://arxiv.org/abs/2512.23637)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abasu9&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
