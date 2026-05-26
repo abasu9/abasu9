@@ -51,7 +51,7 @@ Draft-then-verify inference for LLaMA-3.1 and Gemma. >40% latency reduction in a
 ### 💡 [CoT-RAG - Explainable Reasoning Search](https://github.com/abasu9/CoT-RAG-Explainable-Reasoning-Search)
 RAG system exposing full chain-of-thought reasoning for every answer - transparent and auditable retrieval-augmented generation.
 
-### 📊 [CULL - Agentic AI for Employee Analytics]([(https://github.com/abasu9/Orbyx-Jachacks-2026)](https://github.com/abasu9/Orbyx-Jachacks-2026)) | *JacHacks 2026 - Top 5 Finalist*
+### 📊 [CULL - Agentic AI for Employee Analytics]((https://github.com/abasu9/Orbyx-Jachacks-2026)) | *JacHacks 2026 - Top 5 Finalist*
 4-agent DAG pipeline for automated employee evaluation and ranking. Concurrent per-record processing, rollback-safe execution, and PostgreSQL-backed audit trails. **FastAPI · Python · PostgreSQL · React · TypeScript**
 
 ### 📈 [CHQ-Summ Dataset](https://github.com/abasu9/CHQ-Summ-A-Dataset-for-Consumer-Healthcare-Question-Summarization) | *Lead Author - submitted to Nature Scientific Data*
