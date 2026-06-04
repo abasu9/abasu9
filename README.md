@@ -1,13 +1,13 @@
 # Hi 👋, I'm Abhishek Basu
-### Software Engineer | Co-founder @ [Zelyx](https://zelyx.app/) | Open to early-career roles
+### Software Engineer | Co-founder @ [Zelyx](https://zelyx.app/) | Open to early-career roles | Backend, Distributed Systems & AI/ML Systems
 
 ![](https://komarev.com/ghpvc/?username=abasu9&label=Profile%20views&color=0e75b6&style=flat)
 
-MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating **July 2026** · Backend, distributed systems & AI/ML
+MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating **July 2026** 
 
 - **Open to early-career software engineering roles** (backend, distributed systems, AI/ML infrastructure) - available from July 2026
-- Co-founder @ **[Zelyx](https://zelyx.app/)** - self-funded startup building AI spend-control infrastructure: enforce budgets, kill runaway agent loops, and see per-call costs across OpenAI, Anthropic, Google, and more before the bill lands
-- **1st Place**, [CAIDF 2026 Hackathon](https://www.caidf.org/2026-hackathon-winners) (ARPA-H / UIC) - built **[NextStep.ai](https://www.caidf.org/2026-hackathon-winners)**
+- Co-founder @ **[Zelyx](https://zelyx.app/)** - building AI spend-control infrastructure: enforce budgets, kill runaway agent loops, and see per-call costs across OpenAI, Anthropic, Google, and more before the bill lands.
+- **1st Place** ($20,000 prize), [CAIDF 2026 Hackathon](https://www.caidf.org/2026-hackathon-winners) (ARPA-H / UIC) - built **[NextStep.ai](https://evidencefirst.netlify.app/)**
 - Building production backend services, distributed systems, and ML evaluation pipelines
 - Lead author on [CHQ-Summ](https://arxiv.org/abs/2512.23637), a benchmark dataset submitted to Nature Scientific Data
 - Massachusetts Institute of Technology Frontiers GenAI Hackathon Finalist (Top 5) - with Google DeepMind & Breakthrough Ventures
@@ -33,16 +33,16 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 
 # 🚀 What I've Built:
 
-### 🛡️ [Zelyx - AI Spend Control for Agents](https://zelyx.app/) | *Co-founder · self-funded startup*
+### 🛡️ [Zelyx - AI Spend Control for Agents](https://zelyx.app/) | *Co-founder*
 Proxy layer between your app and every LLM provider. Set daily caps by company, team, project, or key; block over-budget calls with HTTP 402 before providers bill; real-time per-call cost breakdown. One line of code, no SDK swap. [Team](https://zelyx.app/team) · **TypeScript · Python · FastAPI**
 
-### 🏆 [NextStep.ai](https://www.caidf.org/2026-hackathon-winners) | *CAIDF 2026 Hackathon - 1st Place*
-Winning project at the [Creating AI-Enabled All-Health Team Data Fabric (CAIDF)](https://www.caidf.org/) hackathon (UIC, ARPA-H). Built with Luis Cisneros, Lawrence Salud, and Amy Wang on multidisciplinary nursing, therapy, and clinical record data for falls and NICU populations.
+### 🏆 [NextStep.ai](https://evidencefirst.netlify.app/) | *CAIDF 2026 Hackathon - 1st Place · $20,000 prize*
+Winning project at the [Creating AI-Enabled All-Health Team Data Fabric (CAIDF)](https://www.caidf.org/) hackathon (UIC, ARPA-H) - [$20,000 first-place prize](https://www.caidf.org/2026-hackathon-winners). Built with Luis Cisneros, Lawrence Salud, and Amy Wang on multidisciplinary nursing, therapy, and clinical record data for falls and NICU populations.
 
-### ⚡ [Friday - Privacy-First AI Meeting Assistant](https://github.com/abasu9/Frontiers-Hack) | *Massachusetts Institute of Technology Frontiers GenAI Hackathon - Top 5 Finalist*
+### ⚡ [Friday - Privacy-First AI Meeting Assistant](https://github.com/yawbtng/Frontiers-Hack) | *Massachusetts Institute of Technology Frontiers GenAI Hackathon - Top 5 Finalist*
 Desktop app with live transcription (Whisper), real-time streaming, and editable meeting workflows. All processing local by default - no cloud upload of raw audio. **Rust · Tauri · Next.js · FastAPI · SQLite**
 
-### 🚗 [RideMatch - Distributed Ride Dispatch Simulator](https://github.com/abasu9/RideMatch-Distributed-Ride-Dispatch-Simulator)
+### 🚗 [RideMatch - Distributed Ride Dispatch Simulator](https://github.com/abasu9/RideMatch)
 Distributed ride-dispatch system with Go microservices, gRPC for service communication, and Kafka for streaming driver-location updates. Geospatial matching via H3 hex-grid indexing and Redis. Instrumented with Prometheus, structured logging, and OpenTelemetry tracing. **Go · gRPC · Kafka · Redis · PostgreSQL · Docker**
 
 ### 🏥 [Clinical QA Fine-tuning and Serving Pipeline](https://github.com/abasu9/Clinical-QA-Pipeline)
