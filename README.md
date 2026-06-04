@@ -7,7 +7,7 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 
 - **Open to early-career software engineering roles** (backend, distributed systems, AI/ML infrastructure) - available from July 2026
 - Co-founder @ **[Zelyx](https://zelyx.app/)** - building AI spend-control infrastructure: enforce budgets, kill runaway agent loops, and see per-call costs across OpenAI, Anthropic, Google, and more before the bill lands.
-- **1st Place** ($20,000 prize), [CAIDF 2026 Hackathon](https://www.caidf.org/2026-hackathon-winners) (ARPA-H / UIC) - built **[NextStep.ai](https://evidencefirst.netlify.app/)**
+- **1st Place** ($20,000 prize), [CAIDF 2026 Hackathon](https://www.caidf.org/2026-hackathon-winners) (ARPA-H / UIC / Microsoft) - built **[NextStep.ai](https://evidencefirst.netlify.app/)**
 - Building production backend services, distributed systems, and ML evaluation pipelines
 - Lead author on [CHQ-Summ](https://arxiv.org/abs/2512.23637), a benchmark dataset submitted to Nature Scientific Data
 - Massachusetts Institute of Technology Frontiers GenAI Hackathon Finalist (Top 5) - with Google DeepMind & Breakthrough Ventures
@@ -37,7 +37,7 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 Proxy layer between your app and every LLM provider. Set daily caps by company, team, project, or key; block over-budget calls with HTTP 402 before providers bill; real-time per-call cost breakdown. One line of code, no SDK swap. [Team](https://zelyx.app/team) · **TypeScript · Python · FastAPI**
 
 ### 🏆 [NextStep.ai](https://evidencefirst.netlify.app/) | *CAIDF 2026 Hackathon - 1st Place · $20,000 prize*
-Winning project at the [Creating AI-Enabled All-Health Team Data Fabric (CAIDF)](https://www.caidf.org/) hackathon (UIC, ARPA-H) - [$20,000 first-place prize](https://www.caidf.org/2026-hackathon-winners). Built with Luis Cisneros, Lawrence Salud, and Amy Wang on multidisciplinary nursing, therapy, and clinical record data for falls and NICU populations.
+Winning project at the [Creating AI-Enabled All-Health Team Data Fabric (CAIDF)](https://www.caidf.org/) hackathon (UIC, ARPA-H, Microsoft) - [$20,000 first-place prize](https://www.caidf.org/2026-hackathon-winners). Built with Luis Cisneros, Lawrence Salud, and Amy Wang on multidisciplinary nursing, therapy, and clinical record data for falls and NICU populations.
 
 ### ⚡ [Friday - Privacy-First AI Meeting Assistant](https://github.com/yawbtng/Frontiers-Hack) | *Massachusetts Institute of Technology Frontiers GenAI Hackathon - Top 5 Finalist*
 Desktop app with live transcription (Whisper), real-time streaming, and editable meeting workflows. All processing local by default - no cloud upload of raw audio. **Rust · Tauri · Next.js · FastAPI · SQLite**
