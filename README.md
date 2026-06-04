@@ -1,10 +1,13 @@
 # Hi 👋, I'm Abhishek Basu
-### Software Engineer | Backend, Distributed Systems & AI/ML Systems
+### Software Engineer | Co-founder @ [Zelyx](https://zelyx.app/) | Open to early-career roles
 
 ![](https://komarev.com/ghpvc/?username=abasu9&label=Profile%20views&color=0e75b6&style=flat)
 
-MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating July 2026
+MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating **July 2026** · Backend, distributed systems & AI/ML
 
+- **Open to early-career software engineering roles** (backend, distributed systems, AI/ML infrastructure) - available from July 2026
+- Co-founder @ **[Zelyx](https://zelyx.app/)** - self-funded startup building AI spend-control infrastructure: enforce budgets, kill runaway agent loops, and see per-call costs across OpenAI, Anthropic, Google, and more before the bill lands
+- **1st Place**, [CAIDF 2026 Hackathon](https://www.caidf.org/2026-hackathon-winners) (ARPA-H / UIC) - built **[NextStep.ai](https://www.caidf.org/2026-hackathon-winners)**
 - Building production backend services, distributed systems, and ML evaluation pipelines
 - Lead author on [CHQ-Summ](https://arxiv.org/abs/2512.23637), a benchmark dataset submitted to Nature Scientific Data
 - Massachusetts Institute of Technology Frontiers GenAI Hackathon Finalist (Top 5) - with Google DeepMind & Breakthrough Ventures
@@ -20,7 +23,7 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 
 **Backend & Infra:** Apache Kafka, gRPC, FastAPI, Flask, Docker, Prometheus, OpenTelemetry, CI/CD, Linux
 
-**Cloud:** AWS (EC2, S3, Lambda, SageMaker), Serverless
+**Cloud:** AWS (EC2, S3, Lambda, SageMaker), Serverless, Cloudflare Workers, Supabase
 
 **Databases:** PostgreSQL, MongoDB, Redis, ChromaDB
 
@@ -30,16 +33,22 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 
 # 🚀 What I've Built:
 
-### ⚡ [Friday - Privacy-First AI Meeting Assistant](https://github.com/yawbtng/Frontiers-Hack) | *Massachusetts Institute of Technology Frontiers GenAI Hackathon - Top 5 Finalist*
+### 🛡️ [Zelyx - AI Spend Control for Agents](https://zelyx.app/) | *Co-founder · self-funded startup*
+Proxy layer between your app and every LLM provider. Set daily caps by company, team, project, or key; block over-budget calls with HTTP 402 before providers bill; real-time per-call cost breakdown. One line of code, no SDK swap. [Team](https://zelyx.app/team) · **TypeScript · Python · FastAPI**
+
+### 🏆 [NextStep.ai](https://www.caidf.org/2026-hackathon-winners) | *CAIDF 2026 Hackathon - 1st Place*
+Winning project at the [Creating AI-Enabled All-Health Team Data Fabric (CAIDF)](https://www.caidf.org/) hackathon (UIC, ARPA-H). Built with Luis Cisneros, Lawrence Salud, and Amy Wang on multidisciplinary nursing, therapy, and clinical record data for falls and NICU populations.
+
+### ⚡ [Friday - Privacy-First AI Meeting Assistant](https://github.com/abasu9/Frontiers-Hack) | *Massachusetts Institute of Technology Frontiers GenAI Hackathon - Top 5 Finalist*
 Desktop app with live transcription (Whisper), real-time streaming, and editable meeting workflows. All processing local by default - no cloud upload of raw audio. **Rust · Tauri · Next.js · FastAPI · SQLite**
 
-### 🚗 [RideMatch - Distributed Ride Dispatch Simulator](https://github.com/abasu9/RideMatch)
+### 🚗 [RideMatch - Distributed Ride Dispatch Simulator](https://github.com/abasu9/RideMatch-Distributed-Ride-Dispatch-Simulator)
 Distributed ride-dispatch system with Go microservices, gRPC for service communication, and Kafka for streaming driver-location updates. Geospatial matching via H3 hex-grid indexing and Redis. Instrumented with Prometheus, structured logging, and OpenTelemetry tracing. **Go · gRPC · Kafka · Redis · PostgreSQL · Docker**
 
 ### 🏥 [Clinical QA Fine-tuning and Serving Pipeline](https://github.com/abasu9/Clinical-QA-Pipeline)
 Fine-tuned Mistral-7B with QLoRA on clinical QA data, served via vLLM behind FastAPI with quantization and continuous batching. ~50% latency reduction vs. baseline HuggingFace generation, ~12% improvement in domain-specific accuracy. **Python · PyTorch · QLoRA · vLLM · FastAPI · W&B · Docker**
 
-### 🔍 [Ethical RAG for Medical Retrieval](https://github.com/abasu9/Ethical_RAG)
+### 🔍 [Ethical RAG for Medical Retrieval](https://github.com/abasu9/ETHICAL-RAG)
 Hybrid retrieval (BM25 + dense embeddings) with trustworthiness scoring, self-consistency validation, and confidence-based refusal. AUC ~0.89 on hallucination detection across 2,500+ PubMed passages. Deployed on AWS with caching and batching. **Python · Hugging Face · ChromaDB · AWS**
 
 ### 🤖 [Multi-Agent Research Assistant](https://github.com/abasu9/Multi-Agent-Research-Assistant)
@@ -53,6 +62,9 @@ RAG system exposing full chain-of-thought reasoning for every answer - transpare
 
 ### 📊 [CULL - Agentic AI for Employee Analytics](https://github.com/abasu9/Orbyx-Jachacks-2026) | *JacHacks 2026 - Top 5 Finalist*
 4-agent DAG pipeline for automated employee evaluation and ranking. Concurrent per-record processing, rollback-safe execution, and PostgreSQL-backed audit trails. **FastAPI · Python · PostgreSQL · React · TypeScript**
+
+### 🩺 [Clinical Annotation Tool](https://github.com/abasu9/clinical-annotation-tool) | *UIC Biomedical NLP Lab*
+Serverless multimodal clinical annotation app for expert labeling of posts with images. React + Supabase + Cloudflare R2/Workers. [Live demo](https://clinical-annotation-tool.abhishek-basu2010.workers.dev)
 
 ### 📈 [CHQ-Summ Dataset](https://github.com/abasu9/CHQ-Summ-A-Dataset-for-Consumer-Healthcare-Question-Summarization) | *Lead Author - submitted to Nature Scientific Data*
 Benchmarked 6 LLMs across 72 configurations. ROUGE-L 49% · BERTScore 92%. [arXiv](https://arxiv.org/abs/2512.23637)
