@@ -1,12 +1,12 @@
 # Hi 👋, I'm Abhishek Basu
-### Software Engineer | Co-founder @ [Zelyx](https://zelyx.app/) | Open to early-career roles | Backend, Distributed Systems & AI/ML Systems
+### Software Engineer | Previously co-founded [Zelyx](https://zelyx.app/) | Open to early-career roles | Backend, Distributed Systems & AI/ML Systems
 
 ![](https://komarev.com/ghpvc/?username=abasu9&label=Profile%20views&color=0e75b6&style=flat)
 
 MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating **July 2026** 
 
 - **Open to early-career software engineering roles** (backend, distributed systems, AI/ML infrastructure) - available from July 2026
-- Co-founder @ **[Zelyx](https://zelyx.app/)** - building AI spend-control infrastructure: enforce budgets, kill runaway agent loops, and see per-call costs across OpenAI, Anthropic, Google, and more before the bill lands.
+- Previously co-founded **[Zelyx](https://zelyx.app/)** - AI spend-control infrastructure: enforce budgets, kill runaway agent loops, and see per-call costs across OpenAI, Anthropic, Google, and more before the bill lands.
 - **1st Place** ($20,000 prize), [CAIDF 2026 Hackathon](https://www.caidf.org/2026-hackathon-winners) (ARPA-H / UIC / Microsoft) - built **[NextStep.ai](https://evidencefirst.netlify.app/)**
 - Building production backend services, distributed systems, and ML evaluation pipelines
 - Lead author on [CHQ-Summ](https://arxiv.org/abs/2512.23637), a benchmark dataset submitted to Nature Scientific Data
@@ -33,7 +33,7 @@ MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating
 
 # 🚀 What I've Built:
 
-### 🛡️ [Zelyx - AI Spend Control for Agents](https://zelyx.app/) | *Co-founder*
+### 🛡️ [Zelyx - AI Spend Control for Agents](https://zelyx.app/) | *Previously co-founded*
 Proxy layer between your app and every LLM provider. Set daily caps by company, team, project, or key; block over-budget calls with HTTP 402 before providers bill; real-time per-call cost breakdown. One line of code, no SDK swap. [Team](https://zelyx.app/team) · **TypeScript · Python · FastAPI**
 
 ### 🏆 [NextStep.ai](https://evidencefirst.netlify.app/) | *CAIDF 2026 Hackathon - 1st Place · $20,000 prize*
@@ -71,11 +71,6 @@ Benchmarked 6 LLMs across 72 configurations. ROUGE-L 49% · BERTScore 92%. [arXi
 
 ### 🏀 [ClutchCast - AI Sports Commentary](https://github.com/abasu9/ClutchCast)
 Real-time sports moment detection & AI-generated play-by-play commentary engine. **TypeScript · Next.js**
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abasu9&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abasu9&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abasu9&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abasu9&icon=0&color=0)](https://visitcount.itsvg.in)
