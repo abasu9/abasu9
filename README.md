@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=abasu9&label=Profile%20views&color=0e75b6&style=flat)
 
-MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduating **July 2026** 
+MS Computer Science (Thesis Track) @ University of Illinois Chicago - Graduated **August 2026** 
 
 - **Open to early-career software engineering roles** (backend, distributed systems, AI/ML infrastructure) - available from July 2026
 - Previously co-founded **[Zelyx](https://zelyx.app/)** - AI spend-control infrastructure: enforce budgets, kill runaway agent loops, and see per-call costs across OpenAI, Anthropic, Google, and more before the bill lands.
